@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 08CC-AC27
+
+ Directory of C:\Users\TechM user\Desktop\Myproject
+
+03/09/2018  05:15 PM    <DIR>          .
+03/09/2018  05:15 PM    <DIR>          ..
+03/09/2018  05:15 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  143,642,300,416 bytes free
