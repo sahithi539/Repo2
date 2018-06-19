@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 stuff 
+=======
+stuff2
+>>>>>>> new info file things added
