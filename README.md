@@ -1,2 +1,1 @@
-a simple file added now to the branch 
-hi there
+besure to have ssh key setup to hav it in ur github acc 
